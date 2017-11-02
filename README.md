@@ -1,0 +1,1 @@
+# gtest-quadratic-laughing-happiness
